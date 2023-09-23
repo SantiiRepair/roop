@@ -35,7 +35,7 @@ def clear_face_swapper() -> None:
 def pre_check() -> bool:
     # old: https://huggingface.co/deepinsight/inswapper/resolve/main/inswapper_128.onnx
     download_directory_path = resolve_relative_path('../models')
-    conditional_download(download_directory_path, ['https://huggingface.co/ezioruan/inswapper_128.onnx/resolve/main/inswapper_128.onnx'])'])
+    conditional_download(download_directory_path, ['https://huggingface.co/ezioruan/inswapper_128.onnx/resolve/main/inswapper_128.onnx'])
     return True
 
 
