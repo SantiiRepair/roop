@@ -2,15 +2,15 @@
 
 > Take a video and replace the face in it with a face of your choice. You only need one image of the desired face. No dataset, no training.
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/s0md3v/roop/ci.yml.svg?branch=main)](https://github.com/s0md3v/roop/actions?query=workflow:ci)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/SantiiRepair/roop/ci.yml.svg?branch=main)](https://github.com/SantiiRepair/roop/actions?query=workflow:ci)
 
 ## Installation
 
-Be aware, the installation needs technical skills and is not for beginners. Please do not open platform and installation related issues on GitHub. We have a very helpful [Discord](https://discord.com/invite/Y9p4ZQ2sB9) community that will guide you to install roop.
+Be aware, the installation needs technical skills and is not for beginners. Please do not open platform and installation related issues on GitHub. For doubts ask at the [Discord](https://discord.com/invite/Y9p4ZQ2sB9) official community that will guide you to install roop.
 
-[Basic](https://github.com/s0md3v/roop/wiki/1.-Installation) - It is more likely to work on your computer, but will be quite slow
+[Basic](https://github.com/SantiiRepair/roop/wiki/1.-Installation) - It is more likely to work on your computer, but will be quite slow
 
-[Acceleration](https://github.com/s0md3v/roop/wiki/2.-Acceleration) - Unleash the full potential of your CPU and GPU
+[Acceleration](https://github.com/SantiiRepair/roop/wiki/2.-Acceleration) - Unleash the full potential of your CPU and GPU
 
 
 ## Usage
@@ -70,4 +70,4 @@ Our software uses a lot of third party libraries as well pre-trained models. The
 
 ## Documentation
 
-Read the [documentation](https://github.com/s0md3v/roop/wiki) for a deep dive.
+Read the [documentation](https://github.com/SantiiRepair/roop/wiki) for a deep dive.
